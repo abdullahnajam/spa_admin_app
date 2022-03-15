@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "721165776870",
+    "project_id": "spa-beauty-98116",
+    "storage_bucket": "spa-beauty-98116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721165776870:android:d6df4eb595f6e6966b0827",
+        "android_client_info": {
+          "package_name": "com.example.spa_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1fBchfdVZBdmcBRbJTAV9D6_6U2RrUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721165776870:android:4b083618f39213816b0827",
+        "android_client_info": {
+          "package_name": "com.spa.spa_beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721165776870-26jl776eb4il6ao6dkgksdjq1os98sq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spa.spa_beauty",
+            "certificate_hash": "c3a0cd39f6ac9b945403790fd500b6262b3aa33e"
+          }
+        },
+        {
+          "client_id": "721165776870-63e2h55asccvbktak5p1cjnlb6uqooca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spa.spa_beauty",
+            "certificate_hash": "10078683f7dcd4cd8d017bbfa5552a12e0391294"
+          }
+        },
+        {
+          "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1fBchfdVZBdmcBRbJTAV9D6_6U2RrUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721165776870:android:511b1fe3f138ff086b0827",
+        "android_client_info": {
+          "package_name": "com.systego.systego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721165776870-1lt3j99pmdfc4hhkhbgujak4k2aea43m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systego.systego",
+            "certificate_hash": "c3a0cd39f6ac9b945403790fd500b6262b3aa33e"
+          }
+        },
+        {
+          "client_id": "721165776870-vjhtmg4ih14pi90p8um73p7od8d6qnp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systego.systego",
+            "certificate_hash": "10078683f7dcd4cd8d017bbfa5552a12e0391294"
+          }
+        },
+        {
+          "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1fBchfdVZBdmcBRbJTAV9D6_6U2RrUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721165776870-urpasaas3l7476vdnqkevf1o1q4geq88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
